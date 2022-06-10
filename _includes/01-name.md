@@ -1,5 +1,5 @@
-#Name Ideas
-##Father: Presto Sutton
+# Name Ideas
+## Father: Presto
 - Auster
 - Sonny
 - Martin
