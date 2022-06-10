@@ -1,1 +1,6 @@
-Replace this with your name, and include a header.
+#Name Ideas
+##Father: Presto Sutton
+- Auster
+- Sonny
+- Martin
+- Ernest
